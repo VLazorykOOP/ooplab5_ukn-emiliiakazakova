@@ -189,7 +189,7 @@ public:
 
 int main()
 {
-	cout << "Exercise 1.10" << endl;
+	cout << "Exercise 1" << endl;
 	cPoint obj;
 	obj.Printc();
 	cout << "------------------------------" << endl;
@@ -209,7 +209,7 @@ int main()
 	obj.Printc();
 	cout << "------------------------------" << endl;
 	obj2.GetCord();
-	cout << "Exercise 2.10" << endl;
+	cout << "Exercise 2" << endl;
 	Comp comp1;
 	cout << comp1.Print() << "  \n";
 	comp1.Input();
